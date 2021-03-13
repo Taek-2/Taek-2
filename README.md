@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taek-2)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Taek-2/Taek-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
