@@ -1,7 +1,12 @@
 <h3 align='center'>Hi there 👋</h3>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taek-2&show_icons=true&theme=radical)
+<br>
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Taek-2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
+</p>
+<br>
 
 <h3 align='center'>🔨 Stack 🔧</h3>
 <p align='center'>Techs that I've used at least once</p>
