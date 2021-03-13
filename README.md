@@ -22,3 +22,19 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
 </p>
 <br>
+
+<h3 align='center'>About me</h3>
+<p align='center'>
+  <a href="mailto:tagizzang@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="http://taek2.ml" target="_blank">
+    <img src="https://img.shields.io/badge/Github Blog-181717?style=flat-square&logo=Github&logoColor=white"/>
+  </a>
+</p>
+<br>
+<p align='center'>
+  <a href="https://github.com/Taek-2" target="nofollow">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoYeonJang&count_bg=%237296CB&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</p>
