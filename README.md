@@ -34,4 +34,4 @@
 </p>
 <p align='center'>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaek-2&count_bg=%23B2B2B2&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Me+today&edge_flat=true"/></a>
-  <\p>
+  </p>
