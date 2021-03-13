@@ -3,7 +3,7 @@
 <br>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Taek-2&show_icons=true&bg_color=30,8360c3,2ebf91&title_color=fff&text_color=fff"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Taek-2&show_icons=true&icon_color=bg_color=0F2027&30,8360c3,2ebf91&title_color=fff&text_color=fff"/>
   </a>
 </p>
 <br>
