@@ -19,6 +19,6 @@
   <br>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
 </p>
 <br>
